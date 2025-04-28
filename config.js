@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY HORIZON MD 🤑🤙*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "⚠️ YOUR STATUS AUTO WAS VIEWED BY HORIZON MD.*\n⚠️ THIS BOT WAS DEVELOPED BY `DAKSHAN` OR THE `OWNER OF TECH HORIZON SCHOOL.`\n\n> *© ᴩᴏᴡᴇʀᴇᴅ ʙʏ ᴛᴇᴄʜ-ʜᴏʀɪᴢᴏɴ*",
 // set the auto reply massage on status reply  
 ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
@@ -23,9 +23,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/a9uyng.p
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "HORIZON MD",
+BOT_NAME: process.env.BOT_NAME || "HORIZON-MD-V2",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "HORIZON MD",
+STICKER_NAME: process.env.STICKER_NAME || "HORIZON-MD-V2",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
