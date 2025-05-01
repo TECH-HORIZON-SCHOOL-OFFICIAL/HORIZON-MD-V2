@@ -6,15 +6,13 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 > **CURRENT BOT VERSION ➜ `3.0.0 ⚡`**
 ---
 
-<p align='center'>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANK YOU FOR CHOOSING+HORIZIN MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ALI+INXIDE" alt="Typing SVG" /></a>
-  </p>
   
 --- 
 
-<a><img src='https://files.catbox.moe/6ku0eo.jpg'/></a>
+<a><img src='https://files.catbox.moe/tlica4.png'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -27,32 +25,24 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/itx-alii-raza/ALI-MD/fork"><img title="ALI-MD" src="https://img.shields.io/badge/FORK-ALI%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/TECH-HORIZON-SCHOOL-OFFICIAL/HORIZIN-MD-V2/fork"><img title="HORIZIN-MD" src="https://img.shields.io/badge/FORK-HORIZON%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92300xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
-
-
-> **1. PAIR CODE SESSION ID**
-
-<a href='https://ali-md.onrender.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
+`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:94743xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 > **2. PAIR CODE SESSION ID**
 
 <a href='https://ali-md-72003ad89817.herokuapp.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
-<br> 
+<br>
 
 
 
 ---
 
-### <h2 align="">𐃁ALI-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">𐃁HORIZON-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
@@ -60,16 +50,8 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p style="text-align: center; font-size: 1.2em;">
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itx-alii-raza/ALI-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/TECH-HORIZON-SCHOOL-OFFICIAL/HORIZON-MD-V2)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">3. KOYEB</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=itx-alii-raza/ALI-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20ALI-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 ### <h4 align="">2. TALKDROVE FREE</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
@@ -117,7 +99,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/itx-alii-raza/ALI-MD
+1. Go to https://huggingface.co/spaces/TECH-HORIZON-SCHOOL-OFFICIAL/HORIZON-MD-V2
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -132,7 +114,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > CREDITS PIKABOTZ🎐
 
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ*</h6>
+*ᴩᴏᴡᴇʀᴇᴅ ʙʏ ᴛᴇᴄʜ ʜᴏʀɪᴢᴏɴ ꜱᴄʜᴏᴏʟ ɪɴᴄ*</h6>
 
 </details>
 
@@ -148,22 +130,22 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 ## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ALI࿐➺
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ ME USING WHATSAPP࿐➺
 
 <p align="">
-<a href='https://wa.me/+923003588997?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+94743706283?text=*ʜᴇʟʟᴏ+ᴛʜᴇʀᴇ+ʜᴏʀɪᴢᴏɴ+ᴍᴅ+ᴏᴡɴᴇʀ👋!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## 🪀 WHATSAPP CHANNEL 
 STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h)
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbANgdT5fM5ShIUQ2m0e)
 
 ## 🪀 WHATSAPP GROUP
 JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Lx7sDv7jSy0CCTm5AliPdq)
+[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/LxGPK0GauOwAgcmFJEq3EB)
 
  
 
@@ -197,7 +179,7 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 <br>
 
 ```
-THANK YOU TOHID, JAWAD, KERM & YOU SUPPORTERS
+THANK YOU TOHID, JAWAD & YOU SUPPORTERS
 ```
 -----
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
