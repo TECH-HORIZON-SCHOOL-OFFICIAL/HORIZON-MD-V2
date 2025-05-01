@@ -1,8 +1,8 @@
 {
-  "name": "HORIZON MD",
-  "description": "Javascript WhatsApp bot made by Tech Horizon inc",
-  "logo": "https://i.ibb.co/4ZSYvPTq/lordali.jpg",
-  "keywords": ["HORIZON MD"],
+  "name": "HORIZON-MD-V2",
+  "description": "Javascript WhatsApp bot made by TECH HORIZON SCHOOL INC",
+  "logo": "https://raw.githubusercontent.com/TECH-HORIZON-SCHOOL-OFFICIAL/PROJECT_HORIZON/refs/heads/main/images/1742748219892.jpg",
+  "keywords": ["HORIZON-MD-V2"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "HORIZON MD"
+      "value": "HORIZON-MD-V2"
     }, 
       
     "PREFIX": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY HORIZON MD🖤*"
+      "value": "*⭕YOUR STATUS AUTO WAS VIEWED 👀 BY HORIZON MD.*\n⭕ THIS BOT WAS DEVELOPED BY `DAKSHAN` OR THE `OWNER OF TECH HORIZON SCHOOL.`\n\n> *© ᴩᴏᴡᴇʀᴇᴅ ʙʏ ᴛᴇᴄʜ-ʜᴏʀɪᴢᴏɴ*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "TECH HORIZON INC"
+      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "94743706283"
+      "value": "947437XXXXX"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "HORIZON MD"
+      "value": "HORIZON-MD-V2"
 
       }, 
 
@@ -132,7 +132,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://i.ibb.co/4ZSYvPTq/lordali.jpg"
+      "value": "https://files.catbox.moe/tlica4.png"
     },
     
      "DESCRIPTION": {
@@ -183,6 +183,18 @@
       "required": false,
       "value": "log"
     }, 
+
+    "ADMIN_EVENTS": {
+      "description": "make it true if want know who promote or demote a member .",
+      "required": false,
+      "value": "false"
+    },
+
+    "WELCOME": {
+      "description": "make it true if want goodbye and welcome message in groups.",
+      "required": false,
+      "value": "true"
+    },
 
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
