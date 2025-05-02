@@ -1,6 +1,6 @@
 FROM node:lts-buster
-RUN git clone https://github.com/Tohidkhan6332/TOHID_MD/root/mrtohid
-WORKDIR /root/mrtohid
+RUN git clone https://github.com/JawadYT36/KHAN-MD/root/ikJawad
+WORKDIR /root/ikJawad
 RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
 COPY . .
 EXPOSE 9090
