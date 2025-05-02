@@ -143,12 +143,12 @@
 <div align="center">
   <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
-
-## 👑 KHAN STATUS
+## HORIZON MD HELPERS
+## 👑 HORIZON STATUS
 
 ```diff
 + Project Status: Active
-! Version: 5.0.0 Neon Edition
+! Version: 2.0.0 Neon Edition
 # License: APACHE
 ```
 
