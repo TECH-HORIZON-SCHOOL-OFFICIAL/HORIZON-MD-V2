@@ -145,7 +145,14 @@
 </div>
 
 ## HORIZON MD HELPERS
+**•** *TECH HORIZON SCHOOL INC*
+> **OWNER**
 
+**•** *CYBER ASHUU OFC*
+> **CODER**
+
+**•** *MALAKA*
+> **WEB HOSTER**
 
 ## 👑 HORIZON STATUS
 
